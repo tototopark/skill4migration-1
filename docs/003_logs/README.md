@@ -10,13 +10,13 @@ Execution notes for the migration portfolio.
 
 ## Entries
 
-- [2026-06-15-initial-structure-cleanup.md](2026-06-15-initial-structure-cleanup.md)
-- [2026-06-15-quality-gate-direction.md](2026-06-15-quality-gate-direction.md)
-- [2026-06-15-legacy-inventory.md](2026-06-15-legacy-inventory.md)
-- [2026-06-15-gate1-mapping-draft.md](2026-06-15-gate1-mapping-draft.md)
-- [2026-06-15-edge-cases-log.md](2026-06-15-edge-cases-log.md)
-- [2026-06-15-schema-and-contract.md](2026-06-15-schema-and-contract.md)
-- [2026-06-15-smoke-test-plan.md](2026-06-15-smoke-test-plan.md)
-- [2026-06-15-smoke-test-implementation.md](2026-06-15-smoke-test-implementation.md)
-- [2026-06-15-detailed-family-index.md](../002_design/2026-06-15-detailed-legacy-family-index.md)
-- [2026-06-15-file-level-mapping-expansion.md](2026-06-15-file-level-mapping-expansion.md)
+- [2026-06-15-001-initial-structure-cleanup.md](2026-06-15-001-initial-structure-cleanup.md)
+- [2026-06-15-002-quality-gate-direction.md](2026-06-15-002-quality-gate-direction.md)
+- [2026-06-15-003-legacy-inventory.md](2026-06-15-003-legacy-inventory.md)
+- [2026-06-15-004-gate1-mapping-draft.md](2026-06-15-004-gate1-mapping-draft.md)
+- [2026-06-15-005-edge-cases-log.md](2026-06-15-005-edge-cases-log.md)
+- [2026-06-15-006-schema-and-contract.md](2026-06-15-006-schema-and-contract.md)
+- [2026-06-15-007-smoke-test-plan.md](2026-06-15-007-smoke-test-plan.md)
+- [2026-06-15-008-smoke-test-implementation.md](2026-06-15-008-smoke-test-implementation.md)
+- [2026-06-15-011-detailed-legacy-family-index.md](../002_design/2026-06-15-011-detailed-legacy-family-index.md)
+- [2026-06-15-010-file-level-mapping-expansion.md](2026-06-15-010-file-level-mapping-expansion.md)

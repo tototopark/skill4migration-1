@@ -18,10 +18,10 @@ skill4migration-1/
       context-notes.md
       project_structure_guide.md
     002_design/
-      2026-06-15-structure-migration-design.md
+      2026-06-15-001-structure-migration-design.md
     003_logs/
       README.md
-      2026-06-15-initial-structure-cleanup.md
+      2026-06-15-001-initial-structure-cleanup.md
 ```
 
 ## Rules

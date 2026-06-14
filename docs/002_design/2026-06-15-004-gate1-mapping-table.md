@@ -8,7 +8,7 @@ This table maps the legacy surface inventory into the first migration boundaries
 
 It is intentionally conservative: preserve behavior first, refine later.
 
-For a fuller file-family breakdown, see [2026-06-15-detailed-legacy-family-index.md](2026-06-15-detailed-legacy-family-index.md).
+For a fuller file-family breakdown, see [2026-06-15-011-detailed-legacy-family-index.md](2026-06-15-011-detailed-legacy-family-index.md).
 
 ## Mapping Rules
 
