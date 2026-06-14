@@ -8,6 +8,8 @@ This table maps the legacy surface inventory into the first migration boundaries
 
 It is intentionally conservative: preserve behavior first, refine later.
 
+For a fuller file-family breakdown, see [2026-06-15-detailed-legacy-family-index.md](2026-06-15-detailed-legacy-family-index.md).
+
 ## Mapping Rules
 
 - One legacy capability may map to one target boundary or remain a compatibility wrapper.

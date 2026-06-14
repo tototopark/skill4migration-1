@@ -17,4 +17,5 @@ This repository is the portfolio-facing record of a migration cleanup.
 - [docs/001_meta/README_INDEX.md](docs/001_meta/README_INDEX.md)
 - [docs/002_design/2026-06-15-code-migration-quality-gate.md](docs/002_design/2026-06-15-code-migration-quality-gate.md)
 - [docs/002_design/2026-06-15-structure-migration-design.md](docs/002_design/2026-06-15-structure-migration-design.md)
+- [docs/002_design/2026-06-15-detailed-legacy-family-index.md](docs/002_design/2026-06-15-detailed-legacy-family-index.md)
 - [docs/003_logs/README.md](docs/003_logs/README.md)

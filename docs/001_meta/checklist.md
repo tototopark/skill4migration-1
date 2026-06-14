@@ -4,6 +4,7 @@
 - [x] Write the first structure migration design doc.
 - [x] Define the code migration quality gate workflow.
 - [x] Inventory the legacy entrypoints and page families.
+- [x] Build the detailed legacy family index.
 - [x] Build the 1:1 mapping table for Gate 1.
 - [x] Record edge cases and compatibility rules.
 - [x] Define the first backend boundary to migrate.
