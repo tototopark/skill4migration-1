@@ -13,15 +13,15 @@ skill4migration-1/
   README.md
   docs/
     001_meta/
-      CLAUDE.md
-      HOOKS_GUIDE.md
       README_INDEX.md
       checklist.md
       context-notes.md
-      project_docs_compendium.md
       project_structure_guide.md
     002_design/
       2026-06-15-structure-migration-design.md
+    003_logs/
+      README.md
+      2026-06-15-initial-structure-cleanup.md
 ```
 
 ## Rules
@@ -37,4 +37,3 @@ skill4migration-1/
 
 - Write SQL and schemas so SQLite and MySQL differences stay contained in the data layer.
 - Avoid relying on SQLite-only behavior in business logic.
-

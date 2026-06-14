@@ -28,6 +28,7 @@
 ## Scope
 
 - Shared rules belong here.
-- Claude-specific compatibility belongs in `CLAUDE.md`.
-- Hook routing belongs in `HOOKS_GUIDE.md`.
-
+- Human-facing quick start lives in `README.md`.
+- Meta docs live under `docs/001_meta/`.
+- Design docs live under `docs/002_design/`.
+- Execution notes live under `docs/003_logs/`.
