@@ -13,3 +13,4 @@
 - [x] Define the first API contract for the frontend.
 - [x] Decide which legacy PHP files stay as compatibility wrappers.
 - [x] Add smoke tests for the first end-to-end path.
+- [x] Align design and log numbering one-to-one.

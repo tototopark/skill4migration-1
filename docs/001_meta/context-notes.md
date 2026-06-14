@@ -21,6 +21,7 @@
 - The first smoke test is a structural repo check that validates required docs and confirms the checklist is fully closed.
 - The detailed family index counts 440 PHP files across root, devwebsite, and support directories.
 - Gate 1 now has a file-level expansion for the largest root families, plus provisional wrapper and mirror labels for the rest.
+- Design docs and logs are now numbered to align one-to-one across the same work sequence.
 
 ## Documentation rule
 
