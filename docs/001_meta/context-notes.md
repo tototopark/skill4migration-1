@@ -20,6 +20,7 @@
 - The core wrapper list includes login, registration, logout, job updates, and punch/WIP entrypoints.
 - The first smoke test is a structural repo check that validates required docs and confirms the checklist is fully closed.
 - The detailed family index counts 440 PHP files across root, devwebsite, and support directories.
+- Gate 1 now has a file-level expansion for the largest root families, plus provisional wrapper and mirror labels for the rest.
 
 ## Documentation rule
 

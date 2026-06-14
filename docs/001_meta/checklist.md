@@ -6,6 +6,7 @@
 - [x] Inventory the legacy entrypoints and page families.
 - [x] Build the detailed legacy family index.
 - [x] Build the 1:1 mapping table for Gate 1.
+- [x] Expand Gate 1 into file-level mapping for the largest families.
 - [x] Record edge cases and compatibility rules.
 - [x] Define the first backend boundary to migrate.
 - [x] Define the first SQLite schema with MySQL-safe types.
