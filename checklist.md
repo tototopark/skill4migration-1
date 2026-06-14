@@ -1,0 +1,11 @@
+- [x] Canonical repo policy files were added.
+- [x] Folder and file-size rules were defined for the new project direction.
+- [x] Backend-first and docs-first workflow was set as the default.
+- [x] Write the first structure migration design doc.
+- [ ] Define the new application domain and user flows.
+- [ ] Define the first SQLite schema with MySQL-safe types.
+- [ ] Define the first API contract for the frontend.
+- [ ] Decide which legacy PHP files stay as compatibility wrappers.
+- [ ] Decide the first module to migrate into the new structure.
+- [ ] Add smoke tests for the first end-to-end path.
+

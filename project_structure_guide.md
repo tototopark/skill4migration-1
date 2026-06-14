@@ -1,0 +1,40 @@
+# project_structure_guide.md
+
+## Goal
+
+- Keep the repository understandable, shallow, and easy to migrate.
+- Prefer small files and clear boundaries over deep folder nesting.
+
+## Target structure
+
+```text
+skill4migration-1/
+  AGENTS.md
+  CLAUDE.md
+  HOOKS_GUIDE.md
+  README.md
+  README_INDEX.md
+  checklist.md
+  context-notes.md
+  project_docs_compendium.md
+  project_structure_guide.md
+  docs/
+    superpowers/
+      specs/
+        2026-06-15-structure-migration-design.md
+```
+
+## Rules
+
+- Keep folder depth to `2` levels max.
+- If a concern grows, split by file instead of adding deep folders.
+- Keep shared constants in config files when code is added later.
+- Keep business logic out of view files.
+- Keep data access behind a small repository or gateway layer.
+- Keep frontend-facing payloads stable and documented.
+
+## Migration rule
+
+- Write SQL and schemas so SQLite and MySQL differences stay contained in the data layer.
+- Avoid relying on SQLite-only behavior in business logic.
+
