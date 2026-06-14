@@ -2,7 +2,7 @@
 
 ## Quick navigation
 
-- [AGENTS.md](AGENTS.md)
+- [AGENTS.md](../../AGENTS.md)
 - [CLAUDE.md](CLAUDE.md)
 - [HOOKS_GUIDE.md](HOOKS_GUIDE.md)
 - [checklist.md](checklist.md)

@@ -2,7 +2,7 @@
 
 ## Canonical docs
 
-- [AGENTS.md](AGENTS.md) - shared policy for the whole repository.
+- [AGENTS.md](../../AGENTS.md) - shared policy for the whole repository.
 - [CLAUDE.md](CLAUDE.md) - Claude-specific compatibility note.
 - [HOOKS_GUIDE.md](HOOKS_GUIDE.md) - short routing guidance for hook files.
 - [checklist.md](checklist.md) - live work checklist.

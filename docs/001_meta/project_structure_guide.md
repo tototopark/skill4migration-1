@@ -10,18 +10,18 @@
 ```text
 skill4migration-1/
   AGENTS.md
-  CLAUDE.md
-  HOOKS_GUIDE.md
   README.md
-  README_INDEX.md
-  checklist.md
-  context-notes.md
-  project_docs_compendium.md
-  project_structure_guide.md
   docs/
-    superpowers/
-      specs/
-        2026-06-15-structure-migration-design.md
+    001_meta/
+      CLAUDE.md
+      HOOKS_GUIDE.md
+      README_INDEX.md
+      checklist.md
+      context-notes.md
+      project_docs_compendium.md
+      project_structure_guide.md
+    002_design/
+      2026-06-15-structure-migration-design.md
 ```
 
 ## Rules
