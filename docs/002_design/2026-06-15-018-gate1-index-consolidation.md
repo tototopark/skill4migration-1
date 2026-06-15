@@ -43,30 +43,7 @@ It exists so the migration index reflects the current review state without rewri
 - `45.php`
 - `60.php`
 
-### Whiteboard, painting, media, and utilities
-
-- `61.php`
-- `62.php`
-- `63.php`
-- `64.php`
-- `66.php`
-- `67.php`
-- `68.php`
-- `69.php`
-- `70.php`
-- `71.php`
-- `72.php`
-- `73.php`
-
-## Current Status
-
-- The large family index is no longer just a speculative inventory.
-- Several pages have direct file-level behavioral confirmation.
-- View and action pairs are now separated for the painting, photo, and leave-management flows.
-
-## Remaining Provisional Families
-
-The following families still need file-level source review before they should be treated as fully confirmed:
+### Maintenance, WIP, export, and production plan actions
 
 - `31.php`
 - `32.php`
@@ -93,12 +70,35 @@ The following families still need file-level source review before they should be
 - `58.php`
 - `59.php`
 - `65.php`
-- `74.php`
-- `75.php`
-- `76.php`
+
+### Whiteboard, painting, media, and utilities
+
+- `61.php`
+- `62.php`
+- `63.php`
+- `64.php`
+- `66.php`
+- `67.php`
+- `68.php`
+- `69.php`
+- `70.php`
+- `71.php`
+- `72.php`
+- `73.php`
+
+## Current Status
+
+- The large family index is no longer just a speculative inventory.
+- Several pages have direct file-level behavioral confirmation.
+- View and action pairs are now separated for the painting, photo, and leave-management flows.
+
+## Remaining Provisional Families
+
+The current tree no longer has any on-tree family that still blocks Gate 1 confirmation.
+
+The historical placeholders `74.php`, `75.php`, and `76.php` were not present in the tree snapshot used for this pass.
 
 ## Next Index Step
 
 - Keep adding file-by-file review documents rather than renumbering or collapsing the earlier notes.
 - When a family is confirmed, add it here and remove it from provisional status in the mapping table.
-
