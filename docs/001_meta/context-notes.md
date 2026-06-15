@@ -22,6 +22,8 @@
 - The detailed family index counts 440 PHP files across root, devwebsite, and support directories.
 - Gate 1 now has a file-level expansion for the largest root families, plus provisional wrapper and mirror labels for the rest.
 - Design docs and logs are now numbered to align one-to-one across the same work sequence.
+- The first file-by-file source review confirmed that auth/session, jobsheet CRUD, install-date updates, and punchsheet actions are the true high-risk boundaries.
+- `destroysession.php` has a suspicious undefined `$mydevice` handoff after session teardown and should be treated as a compatibility risk.
 
 ## Documentation rule
 

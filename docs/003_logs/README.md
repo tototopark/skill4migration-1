@@ -22,3 +22,4 @@ Execution notes for the migration portfolio.
 - [2026-06-15-010-smoke-test-plan.md](2026-06-15-010-smoke-test-plan.md)
 - [2026-06-15-011-detailed-legacy-family-index.md](../002_design/2026-06-15-011-detailed-legacy-family-index.md)
 - [2026-06-15-012-file-level-mapping-expansion.md](2026-06-15-012-file-level-mapping-expansion.md)
+- [2026-06-15-013-source-review-core-entrypoints.md](2026-06-15-013-source-review-core-entrypoints.md)
