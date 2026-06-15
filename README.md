@@ -20,4 +20,5 @@ This repository is the portfolio-facing record of a migration cleanup.
 - [docs/002_design/2026-06-15-011-detailed-legacy-family-index.md](docs/002_design/2026-06-15-011-detailed-legacy-family-index.md)
 - [docs/002_design/2026-06-15-012-file-level-mapping-expansion.md](docs/002_design/2026-06-15-012-file-level-mapping-expansion.md)
 - [docs/002_design/2026-06-15-013-source-review-core-entrypoints.md](docs/002_design/2026-06-15-013-source-review-core-entrypoints.md)
+- [docs/002_design/2026-06-15-018-gate1-index-consolidation.md](docs/002_design/2026-06-15-018-gate1-index-consolidation.md)
 - [docs/003_logs/README.md](docs/003_logs/README.md)

@@ -42,6 +42,17 @@ For a fuller file-family breakdown, see [2026-06-15-011-detailed-legacy-family-i
 | `17.php` family | job progress / analysis | `src/` jobs boundary | pending | Operational analytics-style page. |
 | `19.php` family | WIP history and details | `src/` WIP boundary | pending | Confirm inspection/data drilldown. |
 
+## File-Level Confirmations
+
+The following families now have direct file-by-file confirmation in later review notes:
+
+- `7.php`, `9.php`, `10.php`, `11.php`, `12.php`, `15.php`, `16.php`, `17.php`, `19.php`
+- `20.php`, `39.php`, `42.php`, `43.php`, `45.php`
+- `60.php`, `61.php`, `62.php`, `63.php`, `64.php`, `66.php`, `67.php`
+- `68.php`, `69.php`, `70.php`, `71.php`, `72.php`, `73.php`
+
+Use the later numbered design notes as the source of truth for those pages until the main table is fully rewritten.
+
 ## Compatibility Decisions
 
 The following families should stay wrapper-friendly until new boundaries are proven:
@@ -55,6 +66,6 @@ The following families should stay wrapper-friendly until new boundaries are pro
 
 ## Remaining Work
 
-- Confirm the exact file-by-file pairing inside each numbered family.
+- Confirm the remaining provisional families listed in the expanded index.
 - Record edge cases per family.
 - Decide the first backend boundary to move into executable code.

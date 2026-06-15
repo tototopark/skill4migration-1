@@ -168,16 +168,34 @@ The `devwebsite` tree is a mirror surface and should not be collapsed into the m
 
 The following groups still need source-level inspection before their final state can be locked:
 
-- `42.php` family
-- `43.php` family
-- `45.php` family
-- `60.php` family
-- `61.php` family
-- `62.php` family
-- `63.php` family
-- `64.php` family
-- `66.php` family
-- `67.php` family
+- `31.php` family
+- `32.php` family
+- `33.php` family
+- `34.php` family
+- `35.php` family
+- `36.php` family
+- `37.php` family
+- `40.php` family
+- `41.php` family
+- `44.php` family
+- `46.php` family
+- `47.php` family
+- `48.php` family
+- `49.php` family
+- `50.php` family
+- `51.php` family
+- `52.php` family
+- `53.php` family
+- `54.php` family
+- `55.php` family
+- `56.php` family
+- `57.php` family
+- `58.php` family
+- `59.php` family
+- `65.php` family
+- `74.php` family
+- `75.php` family
+- `76.php` family
 
 ## Next Gate
 
